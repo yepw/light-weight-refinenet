@@ -1,7 +1,7 @@
 import numpy as np
 
 # DATASET PARAMETERS
-TRAIN_DIR = 'content/'
+TRAIN_DIR = 'content/light-weight-refinenet-master/datasets/nyud'
 VAL_DIR = TRAIN_DIR
 TRAIN_LIST = ['./data/train.nyu'] * 3
 VAL_LIST = ['./data/val.nyu'] * 3
